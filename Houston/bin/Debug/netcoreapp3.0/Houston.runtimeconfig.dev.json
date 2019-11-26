@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/bony/.dotnet/store/|arch|/|tfm|",
+      "/Users/bony/.nuget/packages"
+    ]
+  }
+}
